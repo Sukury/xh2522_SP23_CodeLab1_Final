@@ -1,5 +1,6 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# The Project is too large so I export it as a unitypackage 
 
-DO NOT LEAVE IT LIKE THIS!!!
+This is a self-shopping mini game
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+some issue need to be fixed is that when drag the product to scan in the scan area, it is hard to click on the product and drag them out. I think it is because of the multiple collider and on mouse click event issue, I will try to fix it later.
+
